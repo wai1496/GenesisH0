@@ -4,9 +4,13 @@
 ## setup
 
 ```js
-sudo pip install git+git://github.com/nasa8x/mixhash.git
+1. module quark_hash
+git clone https://github.com/Oxygencoin/quark_hash
+sudo python setup.py install
 
-git clone https://github.com/nasa8x/genesis-block.git
+2. sudo pip install git+git://github.com/nasa8x/mixhash.git
+
+3. git clone https://github.com/nasa8x/genesis-block.git
 
 cd genesis-block
 
