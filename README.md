@@ -6,7 +6,9 @@
 ```js
 1. module quark_hash
 git clone https://github.com/Oxygencoin/quark_hash
+cd quark_hash
 sudo python setup.py install
+cd
 
 2. sudo pip install git+git://github.com/nasa8x/mixhash.git
 
