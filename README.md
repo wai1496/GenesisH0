@@ -10,10 +10,13 @@ cd module-quark_hash
 sudo python setup.py install
 cd
 
-2. sudo pip install git+git://github.com/nasa8x/mixhash.git
+2. mixhash
+git clone https://github.com/Oxygencoin/mixhash
+cd mixhash
+sudo python setup.py install
+cd
 
 3. git clone https://github.com/nasa8x/genesis-block.git
-
 cd genesis-block
 
 ```
