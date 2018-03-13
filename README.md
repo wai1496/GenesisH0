@@ -5,8 +5,8 @@
 
 ```js
 1. module quark_hash
-git clone https://github.com/Oxygencoin/quark_hash
-cd quark_hash
+git clone https://github.com/Oxygencoin/module-quark_hash
+cd module-quark_hash
 sudo python setup.py install
 cd
 
