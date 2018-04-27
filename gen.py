@@ -1,5 +1,5 @@
 import hashlib, binascii, struct, array, os, time, sys, optparse
-import mixhash
+#import mixhash
 
 from binascii import unhexlify, hexlify
 
