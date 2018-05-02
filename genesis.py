@@ -1,5 +1,5 @@
 import hashlib, binascii, struct, array, os, time, sys, optparse
-import quark_hash
+import quark
 
 from construct import *
 
