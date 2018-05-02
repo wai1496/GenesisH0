@@ -1,5 +1,5 @@
 import hashlib, binascii, struct, array, os, time, sys, optparse
-import sha3
+import scrypt
 
 from construct import *
 
